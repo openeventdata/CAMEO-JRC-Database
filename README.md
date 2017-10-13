@@ -2,7 +2,7 @@
 
 Forked from Subhasis Dutta's original github pages on this so we have it under the OEDA / openeventdata pages for future reference.  The http://bablenet.org files referenced in here are proprietary and can be accessed under agreements via pbrandt@utdallas.edu for OEDA participants.
 
-This project is built to code events about political conflict and cooperation among different political actors in multiple languages(primarily Engilsh, Arabic and Spanish).
+This project is built to code events about political conflict and cooperation among different political actors in multiple languages (primarily English, Arabic and Spanish).
 It is part of "Modernizing Political Event Data for Big Data Social Science Research".
 
 Implemented under the guidance of: 
@@ -13,8 +13,6 @@ Implemented under the guidance of:
 
 Built at University of Texas at Dallas, funded by U.S National Science Foundation. 
 Details here: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1539302&HistoricalAwards=false 
-
-
 
 # Political Name Parser for JRC and CAMEO dataset
 This repo contains script to parse the entity file of JRC names, CAMEO actoe data and puts organizes it in a structured format in database.
@@ -110,4 +108,3 @@ To install all dependency run
 ```
 pip install -r requirements.txt
 ```
-
