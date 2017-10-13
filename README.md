@@ -1,5 +1,7 @@
 # About this Project
 
+Forked from Subhasis Dutta's original github pages on this so we have it under the OEDA / openeventdata pages for future reference.  The http://bablenet.org files referenced in here are proprietary and can be accessed under agreements via pbrandt@utdallas.edu for OEDA participants.
+
 This project is built to code events about political conflict and cooperation among different political actors in multiple languages(primarily Engilsh, Arabic and Spanish).
 It is part of "Modernizing Political Event Data for Big Data Social Science Research".
 
