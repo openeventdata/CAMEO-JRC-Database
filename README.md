@@ -2,7 +2,9 @@
 
 Forked from Subhasis Dutta's original github pages on this so we have it under the OEDA / openeventdata pages for future reference.  The http://bablenet.org files referenced in here are proprietary and can be accessed under agreements via pbrandt@utdallas.edu for OEDA participants.
 
-This project is built to code events about political conflict and cooperation among different political actors in multiple languages (primarily English, Arabic and Spanish).
+This project is built to code events about political conflict and cooperation among different political actors in multiple languages
+(primarily English, Arabic and Spanish).
+
 It is part of "Modernizing Political Event Data for Big Data Social Science Research".
 
 Implemented under the guidance of: 
@@ -11,7 +13,8 @@ Implemented under the guidance of:
 3. Prof. Vincent Ng
 4. Prof. Jennifer Holmes
 
-Built at University of Texas at Dallas, funded by U.S National Science Foundation. 
+Built at University of Texas at Dallas, funded by U.S National Science Foundation under NSF-SBE-SMA-1539302.
+
 Details here: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1539302&HistoricalAwards=false 
 
 # Political Name Parser for JRC and CAMEO dataset
@@ -25,9 +28,9 @@ Details about CAMEO:
  http://eventdata.parusanalytics.com/papers.dir/Gerner.APSA.02.pdf
 
 ## JRC Dataset
-JRC-Names is a highly multilingual named entity resource for person and organisation names (called 'entities'). It consists of large lists of names and their many spelling variants (up to hundreds for a single person), including across scripts (Latin, Greek, Arabic, Cyrillic, Japanese, Chinese, etc.).
+JRC-Names is a highly multilingual named entity resource for person and organisation names (called 'entities'). It consists of large lists of names and their many spelling variants (up to hundreds for a single person), including across languages (e.g., Latin, Greek, Arabic, Cyrillic, Japanese, Chinese, etc.)  for details see:
 
-https://ec.europa.eu/jrc/en/language-technologies/jrc-names
+https://ec.europa.eu/jrc/en/language-technologies/jrc-names.
 
 ## BableNet
 BabelNet is both a multilingual encyclopedic dictionary, with lexicographic and encyclopedic coverage of terms, 
